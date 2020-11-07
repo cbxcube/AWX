@@ -1,3 +1,9 @@
+This is repository with functional AWX prerequisities I used on Ubuntu 18.04 LTS without any issues.
+- Operational activities are in repository "awx-landscape".
+========================================================================================================
+
+
+
 [![Gated by Zuul](https://zuul-ci.org/gated.svg)](https://ansible.softwarefactory-project.io/zuul/status)
 
 <img src="https://raw.githubusercontent.com/ansible/awx-logos/master/awx/ui/client/assets/logo-login.svg?sanitize=true" width=200 alt="AWX" />
